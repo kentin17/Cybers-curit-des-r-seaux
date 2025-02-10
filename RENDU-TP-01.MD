@@ -8,27 +8,27 @@ La société MegaStock a déménagé dans un nouveau bâtiment afin de mieux ré
 
 ### 2.1 Bureau de la Direction
 
-Justification : Espace privatif contenant des informations sensibles et stratégiques.
+- Justification : Espace privatif contenant des informations sensibles et stratégiques.
 
-Risques : Accès non autorisé, vol d'informations, incendie.
+- Risques : Accès non autorisé, vol d'informations, incendie.
 
-Mesures de sécurité recommandées : Porte sécurisée, accès restreint, stockage des documents sensibles dans un coffre.
+- Mesures de sécurité recommandées : Porte sécurisée, accès restreint, stockage des documents sensibles dans un coffre.
 
 ### 2.2 Coffrets de Brassage (Switches de Distribution)
 
-Justification : Infrastructures critiques pour le réseau interne.
+- Justification : Infrastructures critiques pour le réseau interne.
 
-Risques : Accès non autorisé, surchauffe, endommagement physique.
+- Risques : Accès non autorisé, surchauffe, endommagement physique.
 
-Mesures de sécurité recommandées : Fermeture à clé, surveillance, ventilation adaptée.
+- Mesures de sécurité recommandées : Fermeture à clé, surveillance, ventilation adaptée.
 
 ### 2.3 Zone de Stockage des Serveurs (Salle Serveur)
 
-Justification : Traitement et stockage des données sensibles de l'entreprise.
+- Justification : Traitement et stockage des données sensibles de l'entreprise.
 
-Risques : Accès non autorisé, vol, inondation, surchauffe.
+- Risques : Accès non autorisé, vol, inondation, surchauffe.
 
-Mesures de sécurité recommandées : Accès restreint, climatisation, système anti-incendie, éloignement des sources d'humidité et de chaleur.
+- Mesures de sécurité recommandées : Accès restreint, climatisation, système anti-incendie, éloignement des sources d'humidité et de chaleur.
 
 ### 2.4 Zone de Livraison et Accès au Magasin
 
@@ -40,39 +40,39 @@ Mesures de sécurité recommandées : Accès restreint, climatisation, système 
 
 ### 3. Choix du Meilleur Emplacement pour la Salle Serveur
 
-Critères d'analyse
+- Critères d'analyse
 
-Sécurité physique : Protection contre les intrusions et le vol.
+- Sécurité physique : Protection contre les intrusions et le vol.
 
-Protection environnementale : Prévention contre l'humidité, les températures élevées et les risques d'inondation.
+- Protection environnementale : Prévention contre l'humidité, les températures élevées et les risques d'inondation.
 
-Accessibilité contrôlée : Accès réservé aux administrateurs système.
+- Accessibilité contrôlée : Accès réservé aux administrateurs système.
 
-Gestion thermique : Ventilation et climatisation adaptées pour éviter les surchauffes.
+- Gestion thermique : Ventilation et climatisation adaptées pour éviter les surchauffes.
 
-Résilience : Continuité de service en cas d'incident.
+- Résilience : Continuité de service en cas d'incident.
 
-Emplacement recommandé
+### Emplacement recommandé
 
 L'idéal est d'installer la salle serveur au premier étage, dans un espace dédié, fermé et éloigné des zones à risques comme le magasin ou la zone de livraison.
 
-Avantages :
+#### Avantages :
 
-Protection contre les inondations (bâtiment situé en zone inondable).
+- Protection contre les inondations (bâtiment situé en zone inondable).
 
-Meilleur contrôle d'accès qu'au rez-de-chaussée.
+- Meilleur contrôle d'accès qu'au rez-de-chaussée.
 
-Moins de vibrations et nuisances qu'en proximité des zones de stockage.
+- Moins de vibrations et nuisances qu'en proximité des zones de stockage.
 
-Facilité de climatisation et d'aménagement.
+- Facilité de climatisation et d'aménagement.
 
-Précautions à prendre :
+#### Précautions à prendre :
 
-Ajout d'une porte blindée avec accès badge.
+- Ajout d'une porte blindée avec accès badge.
 
-Installation d'un système anti-incendie adapté aux matériels informatiques.
+- Installation d'un système anti-incendie adapté aux matériels informatiques.
 
-Surveillance vidéo et contrôle périodique de l'humidité et de la température.
+- Surveillance vidéo et contrôle périodique de l'humidité et de la température.
 
 ### 4. Conclusion
 
